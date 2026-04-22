@@ -13,6 +13,19 @@ That's why I build ## 100 Days of AI Production Project ## to help me explore an
 
 Building 100 AI-driven solutions in 100 days. From fundamental ML models to production-ready web services. This repository documents my journey in mastering Natural Language Processing (NLP), Computer Vision, and full-stack AI deployment.
 
+## Project Plan
+###### List of Repeated Task
+###### 1. Keep recording while coding
+###### 2. Make a template of Capcut video
+###### 3. Create a template of Youtube Thumbnail
+###### 4. Develop an intro & outro for each video
+######    a. Intro : "Hello, I am Adam. This is Day 1 of Building my stick Portfolio
+######    b. Outro : "That's all for today. See you for the next project
+###### 6. Google Drive for storing the Camera shots
+###### 7. Scripts for promote website services.
+######    a. Scripts : I have solutions for small business owner who want to develop your own website. Please DM me for more details. I will help.
+###### 8. Youtube Description : Hello guys, My name is Adam. I am Computer Science student who are interest in createive industry and also tech industry. 
+
 ### 📃 List of Project 
-Day-1. Spam Email Detector ✅
-Day-2. See you tomorrow.
+##### Day-1. Spam Email Detector ✅
+##### Day-2. See you tomorrow.
